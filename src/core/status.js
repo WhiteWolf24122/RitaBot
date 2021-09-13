@@ -19,7 +19,7 @@ module.exports = function run (bot, status, config, writable = true)
 {
 
    const activevar = [
-      `ritabot.gg | !tr help`,
+      `I am hungry? | King of all the Snorlax out there.`,
       `for messages to translate | ritabot.gg`,
       "messages to translate | ritabot.gg",
       `!tr help commands | ritabot.gg`,
