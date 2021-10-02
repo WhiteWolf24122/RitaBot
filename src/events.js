@@ -94,7 +94,7 @@ exports.listen = function listen (client)
          client.user.setPresence({
             "activity": {
                "name": "I am hungry?",
-               "type": "PLAYING"
+               "type": "LOOKING FOR SOME PIZZA!!!"
             },
             "status": "online"
          });
